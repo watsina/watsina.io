@@ -12,7 +12,7 @@
       </v-responsive>
 
       <v-responsive class="mx-auto title font-weight-light mb-8" max-width="720">
-        We create software solutions to help you in your day to day life.
+        We create solutions to help you in your day to day life.
       </v-responsive>
     </v-container>
 
