@@ -8,9 +8,8 @@ build site:
   tags:
     - gitlab-org
   script:
-    - yarn install
-    - yarn upgrade
-    - yarn run build
+    - npm install
+    - npm run build
   artifacts:
     expire_in: 1 day
     paths:
